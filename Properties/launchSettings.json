@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Stereograms": {
+      "commandName": "Project",
+      "commandLineArgs": "fire_pat.jpg cube_tpl.jpg out.jpg"
+    }
+  }
+}
